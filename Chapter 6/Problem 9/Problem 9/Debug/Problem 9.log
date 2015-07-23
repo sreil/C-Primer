@@ -1,0 +1,14 @@
+﻿Build started 7/22/2015 9:35:49 PM.
+     1>Project "E:\c++\C++Primer\Chapter 6\Problem 9\Problem 9\Problem 9.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\c++\c++primer\chapter 6\problem 9\problem 9\main.cpp(42): warning C4101: 'first' : unreferenced local variable
+       Link:
+         E:\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\c++\C++Primer\Chapter 6\Problem 9\Debug\Problem 9.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\c++\C++Primer\Chapter 6\Problem 9\Debug\Problem 9.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\c++\C++Primer\Chapter 6\Problem 9\Debug\Problem 9.lib" /MACHINE:X86 Debug\main.obj
+         Problem 9.vcxproj -> E:\c++\C++Primer\Chapter 6\Problem 9\Debug\Problem 9.exe
+     1>Done Building Project "E:\c++\C++Primer\Chapter 6\Problem 9\Problem 9\Problem 9.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.56
